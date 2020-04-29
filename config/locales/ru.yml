@@ -1,0 +1,5 @@
+ru:
+  activerecord:
+    attributes:
+      city_region:
+        name: Название района
