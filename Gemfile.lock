@@ -149,7 +149,7 @@ GEM
     prometheus_exporter (0.4.14)
     public_suffix (4.0.1)
     puma (3.12.1)
-    rack (2.0.7)
+    rack (2.2.2)
     rack-cors (1.0.3)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
