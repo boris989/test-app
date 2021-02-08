@@ -32,7 +32,7 @@ gem 'active_model_serializers', '~> 0.10.0'
 gem 'trailblazer'
 gem 'trailblazer-rails'
 gem 'reform-rails'
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem 'mini_magick'
 gem 'sitemap_generator'
 gem 'whenever', require: false
